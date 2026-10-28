@@ -1,2 +1,2 @@
 # AI-Theory-and-Codex
-Data, cheat sheets and AI theory.
+Data, cheat sheets, findings, documents, tomes and AI theory.
